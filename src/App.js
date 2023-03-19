@@ -29,7 +29,7 @@ const App = () => {
 
         <div className='flex items-center gap-8'>
           <input
-            className='p-4 flex-1 border-black border rounded-lg'
+            className='p-4 flex-1 border-black border rounded'
             type='search'
             placeholder='Search here'
             onChange={handleChange}
