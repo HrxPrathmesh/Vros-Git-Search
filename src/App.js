@@ -44,7 +44,7 @@ const App = () => {
         </div>
 
         {userbio != "" ? (
-          <div className='p-4 rounded-lg w-fit flex flex-col justify-center items-center bg-st-200 mt-24'>
+          <div className='p-4 rounded-lg w-fit flex flex-col justify-center items-center bg-slate-200 mt-24'>
             <div className='bg-white p-12 rounded'>
               <img src={userimg} className='h-48 w-48 rounded-full' />
               <div className='mt-12'>
